@@ -1,0 +1,7 @@
+prefs.arc
+preferences.arc
+.env
+node_modules
+package-lock.json
+sam.yaml
+sam.json

@@ -1,0 +1,12 @@
+{
+  "name": "begin-app",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "sandbox"
+  },
+  "dependencies": {
+    "@enhance/arc-plugin-enhance": "latest",
+    "arc-plugin-oauth": "^0.1.0",
+    "dynamodb-onetable": "^2.4.0"
+  }
+}
